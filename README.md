@@ -11,3 +11,5 @@ You can use this program in the GUI however, the program will also create some .
 - data.txt contains the number of stitches
 - image.txt contains the ASCII image
 - KnitMe.txt contains the image and number of stitches
+
+There are some example files in this repo which show you exactly what this program does. 
